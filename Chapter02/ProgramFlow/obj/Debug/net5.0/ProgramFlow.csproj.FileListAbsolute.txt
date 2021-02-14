@@ -1,0 +1,16 @@
+C:\Users\postn\source\repos\Code\Chapter02\ProgramFlow\bin\Debug\net5.0\ProgramFlow.exe
+C:\Users\postn\source\repos\Code\Chapter02\ProgramFlow\bin\Debug\net5.0\ProgramFlow.deps.json
+C:\Users\postn\source\repos\Code\Chapter02\ProgramFlow\bin\Debug\net5.0\ProgramFlow.runtimeconfig.json
+C:\Users\postn\source\repos\Code\Chapter02\ProgramFlow\bin\Debug\net5.0\ProgramFlow.runtimeconfig.dev.json
+C:\Users\postn\source\repos\Code\Chapter02\ProgramFlow\bin\Debug\net5.0\ProgramFlow.dll
+C:\Users\postn\source\repos\Code\Chapter02\ProgramFlow\bin\Debug\net5.0\ref\ProgramFlow.dll
+C:\Users\postn\source\repos\Code\Chapter02\ProgramFlow\bin\Debug\net5.0\ProgramFlow.pdb
+C:\Users\postn\source\repos\Code\Chapter02\ProgramFlow\obj\Debug\net5.0\ProgramFlow.csprojAssemblyReference.cache
+C:\Users\postn\source\repos\Code\Chapter02\ProgramFlow\obj\Debug\net5.0\ProgramFlow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\postn\source\repos\Code\Chapter02\ProgramFlow\obj\Debug\net5.0\ProgramFlow.AssemblyInfoInputs.cache
+C:\Users\postn\source\repos\Code\Chapter02\ProgramFlow\obj\Debug\net5.0\ProgramFlow.AssemblyInfo.cs
+C:\Users\postn\source\repos\Code\Chapter02\ProgramFlow\obj\Debug\net5.0\ProgramFlow.csproj.CoreCompileInputs.cache
+C:\Users\postn\source\repos\Code\Chapter02\ProgramFlow\obj\Debug\net5.0\ProgramFlow.dll
+C:\Users\postn\source\repos\Code\Chapter02\ProgramFlow\obj\Debug\net5.0\ref\ProgramFlow.dll
+C:\Users\postn\source\repos\Code\Chapter02\ProgramFlow\obj\Debug\net5.0\ProgramFlow.pdb
+C:\Users\postn\source\repos\Code\Chapter02\ProgramFlow\obj\Debug\net5.0\ProgramFlow.genruntimeconfig.cache
