@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "Numbers"
+		},
+		{
+			"path": "Basics"
+		},
+		{
+			"path": "Variables"
+		},
+		{
+			"path": "NullHandling"
+		},
+		{
+			"path": "Formatting"
+		},
+		{
+			"path": "ProgramFlow"
+		}
+	],
+	"settings": {}
+}
