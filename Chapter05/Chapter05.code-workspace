@@ -1,7 +1,13 @@
 {
 	"folders": [
 		{
-			"path": "People"
+			"path": "PacktLibrary9"
+		},
+		{
+			"path": "PacktLibrary"
+		},
+		{
+			"path": "PeopleApp"
 		}
 	],
 	"settings": {}
